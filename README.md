@@ -17,7 +17,7 @@ Este proyecto busca cuantificar esa brecha y explorar cómo factores como la inm
 ---
 
 ## Estructura del proyecto
-
+```
 Analisis-Precios-Vivienda/
 │
 ├── main.ipynb → Notebook principal con el análisis completo
@@ -27,7 +27,7 @@ Analisis-Precios-Vivienda/
 ├── ine.xlsx → Datos de vivienda, hipotecas e IPC
 ├── README.md → Descripción del proyecto
 └── .gitignore → Exclusión de archivos innecesarios 
-
+```
 ---
 
 ## Tecnologías utilizadas
