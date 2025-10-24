@@ -18,10 +18,15 @@ Este proyecto busca cuantificar esa brecha y explorar cómo factores como la inm
 
 ## Estructura del proyecto
 
-- **/data** → archivos de datos originales y limpios  
-- **/notebooks** → análisis exploratorio, visualizaciones y cálculos principales  
-- **/img** → gráficos generados automáticamente durante el análisis  
-- **requirements.txt** → dependencias necesarias para ejecutar el proyecto  
+Analisis-Precios-Vivienda/
+│
+├── main.ipynb → Notebook principal con el análisis completo
+├── Proyecto 3 IronHack.pdf → Documento resumen y presentación del proyecto
+├── datos_unidos_meses.csv → Dataset combinado con información limpia
+├── spain_salary_distribution.csv → Datos salariales por comunidad y año
+├── ine.xlsx → Datos de vivienda, hipotecas e IPC
+├── README.md → Descripción del proyecto
+└── .gitignore → Exclusión de archivos innecesarios 
 
 ---
 
